@@ -1,23 +1,23 @@
 networks:
-  counter-net:
+  counter-net: # Network will created by the name of counter-net
 
 volumes:
-  counter-vol:
+  counter-vol: # Volume will created by the name of counter-vol
   
-services:
+services: # Services will be created by the name of web-fe and redis
   web-fe:
-    build: .
-    command: python app.py
+    build: . # Build the image from the Dockerfile in the current directory
+    command: python app.py # Run the command inside the container
     ports:
-      - target: 8080
-        published: 5001
-    networks:
+      - target: 8080 # Target port of the container
+        published: 5001 # Published port on the host
+    networks: # Connect the service to the network
       - counter-net
-    volumes:
+    volumes: # Mount the volume to the container
       - type: volume
         source: counter-vol
         target: /app
-  redis:
+  redis: # Redis service
     image: "redis:alpine"
     networks:
       counter-net:

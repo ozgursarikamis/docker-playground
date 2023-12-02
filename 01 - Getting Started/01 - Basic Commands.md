@@ -76,4 +76,3 @@ You can connect a container to one or more networks, attach storage to it, or ev
 
 > In terms of shipping containers, a container is the actual, physical thing that can be shipped around,
 > whereas an image is the information on how to build a container.
-
