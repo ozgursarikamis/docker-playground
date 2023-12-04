@@ -68,3 +68,11 @@ Check the logs of the mongodb container:
 ```bash
 docker logs mongodb
 ```
+
+## Docker exec command
+
+`exec` command is used to run a command in a running container.
+
+```bash
+docker exec nodeapp node dbSeeder.js
+```
