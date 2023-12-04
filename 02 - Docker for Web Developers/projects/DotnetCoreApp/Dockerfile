@@ -1,7 +1,7 @@
-FROM mcr.microsoft.com/dotnet/aspnet AS base
+FROM mcr.microsoft.com/dotnet/aspnet:7.0 AS base
 WORKDIR /app
 
-FROM mcr.microsoft.com/dotnet/sdk AS build
+FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
 WORKDIR /src
 COPY ./ASP.NETCoreDemos.csproj .
 RUN dotnet restore "./ASP.NETCoreDemos.csproj"
