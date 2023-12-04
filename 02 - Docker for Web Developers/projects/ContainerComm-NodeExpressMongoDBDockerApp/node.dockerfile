@@ -22,7 +22,7 @@ FROM        node:alpine
 
 LABEL       author="Dan Wahlin"
 
-ARG         PACKAGES=nano
+ARG         PACKAGES=nano # Add additional packages here as needed (nano is a terminal text editor)
 
 ENV         TERM xterm
 RUN         apk update && apk add $PACKAGES
