@@ -1,0 +1,61 @@
+/var/www/bin/Debug/net7.0/appsettings.Development.json
+/var/www/bin/Debug/net7.0/appsettings.json
+/var/www/bin/Debug/net7.0/ASP.NETCoreDemos.staticwebassets.runtime.json
+/var/www/bin/Debug/net7.0/ASP.NETCoreDemos
+/var/www/bin/Debug/net7.0/ASP.NETCoreDemos.deps.json
+/var/www/bin/Debug/net7.0/ASP.NETCoreDemos.runtimeconfig.json
+/var/www/bin/Debug/net7.0/ASP.NETCoreDemos.dll
+/var/www/bin/Debug/net7.0/ASP.NETCoreDemos.pdb
+/var/www/obj/Debug/net7.0/ASP.NETCoreDemos.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/obj/Debug/net7.0/ASP.NETCoreDemos.AssemblyInfoInputs.cache
+/var/www/obj/Debug/net7.0/ASP.NETCoreDemos.AssemblyInfo.cs
+/var/www/obj/Debug/net7.0/ASP.NETCoreDemos.csproj.CoreCompileInputs.cache
+/var/www/obj/Debug/net7.0/ASP.NETCoreDemos.MvcApplicationPartsAssemblyInfo.cache
+/var/www/obj/Debug/net7.0/ASP.NETCoreDemos.RazorAssemblyInfo.cache
+/var/www/obj/Debug/net7.0/ASP.NETCoreDemos.RazorAssemblyInfo.cs
+/var/www/obj/Debug/net7.0/staticwebassets.build.json
+/var/www/obj/Debug/net7.0/staticwebassets.development.json
+/var/www/obj/Debug/net7.0/staticwebassets/msbuild.ASP.NETCoreDemos.Microsoft.AspNetCore.StaticWebAssets.props
+/var/www/obj/Debug/net7.0/staticwebassets/msbuild.build.ASP.NETCoreDemos.props
+/var/www/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ASP.NETCoreDemos.props
+/var/www/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ASP.NETCoreDemos.props
+/var/www/obj/Debug/net7.0/staticwebassets.pack.json
+/var/www/obj/Debug/net7.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/var/www/obj/Debug/net7.0/scopedcss/bundle/ASP.NETCoreDemos.styles.css
+/var/www/obj/Debug/net7.0/scopedcss/projectbundle/ASP.NETCoreDemos.bundle.scp.css
+/var/www/obj/Debug/net7.0/ASP.NETCoreDemos.dll
+/var/www/obj/Debug/net7.0/refint/ASP.NETCoreDemos.dll
+/var/www/obj/Debug/net7.0/ASP.NETCoreDemos.pdb
+/var/www/obj/Debug/net7.0/ASP.NETCoreDemos.genruntimeconfig.cache
+/var/www/obj/Debug/net7.0/ref/ASP.NETCoreDemos.dll
+/Users/ozgur/Documents/projects/docker/docker-playground/02 - Docker for Web Developers/DotnetCoreApp/bin/Debug/net7.0/appsettings.Development.json
+/Users/ozgur/Documents/projects/docker/docker-playground/02 - Docker for Web Developers/DotnetCoreApp/bin/Debug/net7.0/appsettings.json
+/Users/ozgur/Documents/projects/docker/docker-playground/02 - Docker for Web Developers/DotnetCoreApp/bin/Debug/net7.0/ASP.NETCoreDemos.staticwebassets.runtime.json
+/Users/ozgur/Documents/projects/docker/docker-playground/02 - Docker for Web Developers/DotnetCoreApp/bin/Debug/net7.0/ASP.NETCoreDemos
+/Users/ozgur/Documents/projects/docker/docker-playground/02 - Docker for Web Developers/DotnetCoreApp/bin/Debug/net7.0/ASP.NETCoreDemos.deps.json
+/Users/ozgur/Documents/projects/docker/docker-playground/02 - Docker for Web Developers/DotnetCoreApp/bin/Debug/net7.0/ASP.NETCoreDemos.runtimeconfig.json
+/Users/ozgur/Documents/projects/docker/docker-playground/02 - Docker for Web Developers/DotnetCoreApp/bin/Debug/net7.0/ASP.NETCoreDemos.dll
+/Users/ozgur/Documents/projects/docker/docker-playground/02 - Docker for Web Developers/DotnetCoreApp/bin/Debug/net7.0/ASP.NETCoreDemos.pdb
+/Users/ozgur/Documents/projects/docker/docker-playground/02 - Docker for Web Developers/DotnetCoreApp/obj/Debug/net7.0/ASP.NETCoreDemos.csproj.AssemblyReference.cache
+/Users/ozgur/Documents/projects/docker/docker-playground/02 - Docker for Web Developers/DotnetCoreApp/obj/Debug/net7.0/ASP.NETCoreDemos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ozgur/Documents/projects/docker/docker-playground/02 - Docker for Web Developers/DotnetCoreApp/obj/Debug/net7.0/ASP.NETCoreDemos.AssemblyInfoInputs.cache
+/Users/ozgur/Documents/projects/docker/docker-playground/02 - Docker for Web Developers/DotnetCoreApp/obj/Debug/net7.0/ASP.NETCoreDemos.AssemblyInfo.cs
+/Users/ozgur/Documents/projects/docker/docker-playground/02 - Docker for Web Developers/DotnetCoreApp/obj/Debug/net7.0/ASP.NETCoreDemos.csproj.CoreCompileInputs.cache
+/Users/ozgur/Documents/projects/docker/docker-playground/02 - Docker for Web Developers/DotnetCoreApp/obj/Debug/net7.0/ASP.NETCoreDemos.MvcApplicationPartsAssemblyInfo.cache
+/Users/ozgur/Documents/projects/docker/docker-playground/02 - Docker for Web Developers/DotnetCoreApp/obj/Debug/net7.0/ASP.NETCoreDemos.RazorAssemblyInfo.cache
+/Users/ozgur/Documents/projects/docker/docker-playground/02 - Docker for Web Developers/DotnetCoreApp/obj/Debug/net7.0/ASP.NETCoreDemos.RazorAssemblyInfo.cs
+/Users/ozgur/Documents/projects/docker/docker-playground/02 - Docker for Web Developers/DotnetCoreApp/obj/Debug/net7.0/staticwebassets/msbuild.ASP.NETCoreDemos.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ozgur/Documents/projects/docker/docker-playground/02 - Docker for Web Developers/DotnetCoreApp/obj/Debug/net7.0/staticwebassets/msbuild.build.ASP.NETCoreDemos.props
+/Users/ozgur/Documents/projects/docker/docker-playground/02 - Docker for Web Developers/DotnetCoreApp/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ASP.NETCoreDemos.props
+/Users/ozgur/Documents/projects/docker/docker-playground/02 - Docker for Web Developers/DotnetCoreApp/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ASP.NETCoreDemos.props
+/Users/ozgur/Documents/projects/docker/docker-playground/02 - Docker for Web Developers/DotnetCoreApp/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/ozgur/Documents/projects/docker/docker-playground/02 - Docker for Web Developers/DotnetCoreApp/obj/Debug/net7.0/staticwebassets.build.json
+/Users/ozgur/Documents/projects/docker/docker-playground/02 - Docker for Web Developers/DotnetCoreApp/obj/Debug/net7.0/staticwebassets.development.json
+/Users/ozgur/Documents/projects/docker/docker-playground/02 - Docker for Web Developers/DotnetCoreApp/obj/Debug/net7.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/ozgur/Documents/projects/docker/docker-playground/02 - Docker for Web Developers/DotnetCoreApp/obj/Debug/net7.0/scopedcss/bundle/ASP.NETCoreDemos.styles.css
+/Users/ozgur/Documents/projects/docker/docker-playground/02 - Docker for Web Developers/DotnetCoreApp/obj/Debug/net7.0/scopedcss/projectbundle/ASP.NETCoreDemos.bundle.scp.css
+/Users/ozgur/Documents/projects/docker/docker-playground/02 - Docker for Web Developers/DotnetCoreApp/obj/Debug/net7.0/ASP.NETCoreDemos.dll
+/Users/ozgur/Documents/projects/docker/docker-playground/02 - Docker for Web Developers/DotnetCoreApp/obj/Debug/net7.0/refint/ASP.NETCoreDemos.dll
+/Users/ozgur/Documents/projects/docker/docker-playground/02 - Docker for Web Developers/DotnetCoreApp/obj/Debug/net7.0/ASP.NETCoreDemos.pdb
+/Users/ozgur/Documents/projects/docker/docker-playground/02 - Docker for Web Developers/DotnetCoreApp/obj/Debug/net7.0/ASP.NETCoreDemos.genruntimeconfig.cache
+/Users/ozgur/Documents/projects/docker/docker-playground/02 - Docker for Web Developers/DotnetCoreApp/obj/Debug/net7.0/ref/ASP.NETCoreDemos.dll
