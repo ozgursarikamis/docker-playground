@@ -81,3 +81,18 @@ docker run -d -p 8080:80 nginx:alpine
 > nginx:alpine: image name
 
 > 8080:80: port mapping (host:container) 8080 is the host port and 80 is the container port
+
+## Removing Volumes
+
+```bash
+docker volume ls
+```
+
+```bash
+docker volume rm <volume-name>
+```
+
+### `prune` Command
+```bash
+docker system prune --volumes
+```
