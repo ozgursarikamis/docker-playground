@@ -7,7 +7,7 @@ services:
     image: nodeapp
     build:
       context: .
-      dockerfile: node.dockerfile
+      dockerfile: node.dockerfile # default is Dockerfile. if so, no need to specify
       args:
         PACKAGES: "nano wget curl"
     ports:
